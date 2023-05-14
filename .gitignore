@@ -15,10 +15,7 @@ Thumbs.db
 # VSCode
 .vscode/*
 /mec-5.3.10-data-wranging-with-pandas-mini-project
-/mec-11.4.1-linear-regression-mini-project
-
 /mec-13.5.1-tree-based-algorithms-mini-project
-/mec-16.4.1-anomaly-detection-mini-project
 /mec-17.4.1-recommendation-systems-mini-project
 /mec-18.5.1-time-series-analysis-mini-project
 /mec-3.4.1-api-mini-project/.env
